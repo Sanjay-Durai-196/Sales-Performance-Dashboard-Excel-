@@ -93,5 +93,5 @@ View the dashboard preview in .png for reference.
 
 
 ### Screenshots / Demos
-Show what the dashboard looks like. - 
+
 Example: ![Dashboard Preview](https://github.com/Sanjay-Durai-196/Sales-Performance-Dashboard-Excel-/blob/main/Sales%20Dashboard%20Overview%20(Excel).png)
