@@ -89,3 +89,4 @@ Open the .xlsx file in Microsoft Excel.
 Use interactive slicers (Region, Discount, Ship Mode, Product Container) to explore various insights.
 
 View the dashboard preview in .png for reference.
+https://github.com/Sanjay-Durai-196/Sales-Performance-Dashboard-Excel-/blob/main/Sales%20Dashboard%20Overview%20(Excel).png
